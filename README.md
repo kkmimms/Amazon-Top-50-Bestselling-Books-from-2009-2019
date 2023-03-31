@@ -47,6 +47,7 @@ Run in Jupyter Notebook after following the installations instructions above:
 *	Launch Jupyter Notebook by typing jupyter notebook.
 *	In the Jupyter Notebook environment, click on Fiction or Non-Fiction.ipynb.
 *	Click "Kernel" in the top menu bar and select "Restart and Run All."
+
 Run in Visual Studio Code after following the installation instructions above:
 *	Open the saved repository in Visual Studio Code.
 *	Run the Fiction or Non-Fiction? That is the question.ipynb file. 
